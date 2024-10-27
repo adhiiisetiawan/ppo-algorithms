@@ -88,18 +88,6 @@ Running with `--track` enables detailed experiment tracking in wandb, including 
 
 To visualize experiment logs, the project is configured to use [Weights & Biases (wandb)](https://wandb.ai/). You can access the project’s experiment dashboard [here on wandb](https://wandb.ai/adhiisetiawan/ppo-algorithm?nw=nwuseradhiisetiawan) to monitor the training progress, compare results, and analyze performance across runs.
 
-## To Do
-Here's an updated README with a **To-Do** section, including checkboxes with elaborations:
-
----
-
-# PPO Algorithm Reproduction
-
-This project reproduces the Proximal Policy Optimization (PPO) algorithm using PyTorch, focusing on environments with discrete action spaces, specifically `CartPole-v1` and `LunarLander-v2`. The code supports logging to both TensorBoard and Weights & Biases (wandb) for experiment tracking and visualization.
-
-## Experiment Logging
-
-To visualize experiment logs, the project is configured to use [Weights & Biases (wandb)](https://wandb.ai/). You can access the project’s experiment dashboard [here on wandb](https://wandb.ai/adhiisetiawan/ppo-algorithm?nw=nwuseradhiisetiawan) to monitor the training progress, compare results, and analyze performance across runs.
 
 ## To-Do
 
