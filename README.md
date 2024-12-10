@@ -7,7 +7,6 @@ This project reproduces the Proximal Policy Optimization (PPO) algorithm using P
 - [Quick Start](#quick-start)
 - [How to Run](#how-to-run)
 - [Arguments](#arguments)
-- [To Do](#to-do)
 
 ## Requirements
 
@@ -89,7 +88,3 @@ Running with `--track` enables detailed experiment tracking in wandb, including 
 To visualize experiment logs, the project is configured to use [Weights & Biases (wandb)](https://wandb.ai/). You can access the project’s experiment dashboard [here on wandb](https://wandb.ai/adhiisetiawan/ppo-algorithm?nw=nwuseradhiisetiawan) to monitor the training progress, compare results, and analyze performance across runs.
 
 
-## To-Do
-
-- [ ] **Explore MuJoCo Environment**  
-- [ ] **Implement MuJoCo in PPO** 
