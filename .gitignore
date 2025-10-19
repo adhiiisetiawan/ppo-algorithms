@@ -202,7 +202,10 @@ pyrightconfig.json
 # Ignore all local history of files
 .history
 .ionide
+# Exclude MP4 files everywhere except in assets/ folder
 *.mp4
+!assets/
+!assets/*.mp4
 *.json
 runs/
 wandb/
