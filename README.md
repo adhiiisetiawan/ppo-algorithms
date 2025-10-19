@@ -211,6 +211,35 @@ Running with `--track` enables detailed experiment tracking in wandb, including 
 
 ## Experiment Logging
 
-To visualize experiment logs, the project is configured to use [Weights & Biases (wandb)](https://wandb.ai/). You can access the project’s experiment dashboard [here on wandb](https://wandb.ai/adhiisetiawan/ppo-algorithm?nw=nwuseradhiisetiawan) to monitor the training progress, compare results, and analyze performance across runs.
+To visualize experiment logs, the project is configured to use [Weights & Biases (wandb)](https://wandb.ai/). You can access the project's experiment dashboard [here on wandb](https://wandb.ai/adhiisetiawan/ppo-algorithm?nw=nwuseradhiisetiawan) to monitor the training progress, compare results, and analyze performance across runs.
 
+## Development Status
+
+This project is under **active development**. While the core PPO implementations for discrete action spaces are stable and functional, we are continuously improving the codebase.
+
+### Currently Working
+- PPO for discrete action spaces (Classic Control & Atari)
+- TensorBoard and Weights & Biases logging
+- Video recording of training episodes
+
+### In Progress
+- **Continuous Action Space Support**: Implementing PPO for MuJoCo environments (e.g., HalfCheetah, Hopper, Walker2d)
+- **Enhanced Documentation**: Adding more detailed explanations, tutorials, and usage examples
+
+### Roadmap
+- [ ] Complete continuous action space implementation (`ppo_continous.py`)
+- [ ] Add comprehensive documentation for all implementations
+- [ ] Include pre-trained model weights
+- [ ] Add unit tests and integration tests
+- [ ] Performance benchmarks and comparison charts
+
+### Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+### Known Issues
+- None currently reported
+
+---
+
+**Last Updated**: October 2025
 
