@@ -10,10 +10,16 @@ The code supports logging to TensorBoard and Weights & Biases (wandb) for experi
 ## Demo Videos
 
 ### Classic Control - LunarLander-v2
-![LunarLander Training](assets/lunar.mp4)
+[![LunarLander Training](https://img.shields.io/badge/🎮-Watch%20LunarLander%20Training-blue?style=for-the-badge)](assets/lunar.mp4)
 
 ### Atari Games - Breakout
-![Breakout Training](assets/breakout.mp4)
+[![Breakout Training](https://img.shields.io/badge/🎮-Watch%20Breakout%20Training-red?style=for-the-badge)](assets/breakout.mp4)
+
+### Video Files
+- **LunarLander Training**: [lunar.mp4](assets/lunar.mp4) *(23KB)*
+- **Breakout Training**: [breakout.mp4](assets/breakout.mp4) *(133KB)*
+
+> **Note**: Click the buttons above or links below to view the training videos. GitHub will display them in a modal window.
 
 ## Table of Contents
 - [Demo Videos](#demo-videos)
