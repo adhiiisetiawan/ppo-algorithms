@@ -7,7 +7,16 @@ This project reproduces the Proximal Policy Optimization (PPO) algorithm using P
 
 The code supports logging to TensorBoard and Weights & Biases (wandb) for experiment tracking and visualization.
 
+## Demo Videos
+
+### Classic Control - LunarLander-v2
+![LunarLander Training](assets/lunar.mp4)
+
+### Atari Games - Breakout
+![Breakout Training](assets/breakout.mp4)
+
 ## Table of Contents
+- [Demo Videos](#demo-videos)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
