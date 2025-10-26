@@ -7,22 +7,29 @@ This project reproduces the Proximal Policy Optimization (PPO) algorithm using P
 
 The code supports logging to TensorBoard and Weights & Biases (wandb) for experiment tracking and visualization.
 
-## Demo Videos
+## 🎮 Environment Showcase
 
-### Classic Control - LunarLander-v2
-[![LunarLander Training](https://img.shields.io/badge/🎮-Watch%20LunarLander%20Training-blue?style=for-the-badge)](assets/lunar.mp4)
 
-### Atari Games - Breakout
-[![Breakout Training](https://img.shields.io/badge/🎮-Watch%20Breakout%20Training-red?style=for-the-badge)](assets/breakout.mp4)
+<div align="center">
 
-### Video Files
-- **LunarLander Training**: [lunar.mp4](assets/lunar.mp4) *(23KB)*
-- **Breakout Training**: [breakout.mp4](assets/breakout.mp4) *(133KB)*
+<table>
+  <tr>
+    <td align="center"><img src="assets/breakout.gif" width="240"/><br>Breakout</td>
+    <td align="center"><img src="assets/lunar.gif" width="240"/><br>LunarLander</td>
+    <td align="center"><img src="assets/car.gif" width="240"/><br>CarRacing</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/halfcheetah.gif" width="240"/><br>HalfCheetah</td>
+    <td align="center"><img src="assets/ant.gif" width="240"/><br>Ant</td>
+    <td align="center"><img src="assets/humanoid.gif" width="240"/><br>Humanoid</td>
+  </tr>
+</table>
 
-> **Note**: Click the buttons above or links below to view the training videos. GitHub will display them in a modal window.
+</div>
+
 
 ## Table of Contents
-- [Demo Videos](#demo-videos)
+- [Environment Showcase](#-environment-showcase)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
