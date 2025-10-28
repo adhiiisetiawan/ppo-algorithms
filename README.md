@@ -325,7 +325,7 @@ To visualize experiment logs, the project is configured to use [Weights & Biases
 
 This project is **complete and fully functional**. All PPO implementations are stable, tested, and ready for use across different environment types.
 
-### ✅ Completed Features
+### Completed Features
 - **PPO for Discrete Action Spaces** (`ppo_descrete.py`): Classic control tasks (CartPole, LunarLander, Acrobot)
 - **PPO for Atari Games** (`ppo_atari.py`): Visual environments with CNN processing (Breakout, Pong, SpaceInvaders)
 - **PPO for Continuous Control** (`ppo_continous.py`): MuJoCo/PyBullet environments (HalfCheetah, Ant, Humanoid, Walker2D)
@@ -333,14 +333,6 @@ This project is **complete and fully functional**. All PPO implementations are s
 - **TensorBoard and Weights & Biases logging**: Comprehensive experiment tracking
 - **Video recording**: Training episode visualization
 - **Test utilities**: Environment testing and random agent visualization (`test_random_action.py`)
-
-### 🎯 Key Achievements
-- ✅ Full reproduction of the original PPO algorithm from Schulman et al. (2017)
-- ✅ Support for both discrete and continuous action spaces
-- ✅ Optimized implementations for different environment types
-- ✅ Comprehensive documentation and usage guides
-- ✅ Extensive testing across multiple environments
-- ✅ Professional logging and visualization capabilities
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
